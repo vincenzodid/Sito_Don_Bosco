@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.containera {
+   background-color: rgb(73,113,255);
+   color: rgb(107, 214, 143);
+}
+
+.container2 {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+.bg-chrome {
+  background: blue;
+}
+
+
+
+p {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 10pt;
+   color: #ffffff;
+   font-style: normal;
+   font-variant: normal;
+   margin-left: 0px;
+   margin-top: 0px;
+   padding: 2px;
+   text-decoration: none;
+   text-align: right!important;
+}
+
+a {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 10pt;
+   color: #ffffff;
+   font-style: normal;
+   font-variant: normal;
+   margin-left: 0px;
+   margin-top: 0px;
+   padding: 2px;
+   text-decoration: none;
+   text-align: right!important;
+}
+
+.text-my-own-color:hover, .text-my-own-color:active {
+color: #664D33 !important; // Define your own color's darkening/lightening in your CSS
+}
